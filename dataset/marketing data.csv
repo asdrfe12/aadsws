@@ -1,0 +1,83 @@
+,Month,Sales,Income,Price,Store Age,type
+0,6,9100,500,100,7,shoe store
+1,9,150,500,100,10,small market
+2,1,7120,1000,100,13,super market
+3,3,3144,1100,112,15,retailer
+4,5,2600,1200,130,10,cloth store
+5,2,1290,1200,140,3,food store
+6,1,600,1350,200,1,vegetable store
+7,5,500,1500,210,2,hat store
+8,7,1600,1500,250,14,piza store
+9,10,1200,1500,290,8,department store
+10,11,1100,1600,222,14,convenience store
+11,4,400,1800,250,3,warehouse store
+12,12,1200,1900,240,2,bakery
+13,9,900,2000,221,6,electronics store
+14,3,300,2100,225,2,mobile store
+15,4,400,2150,210,5,tv store
+16,8,800,2300,230,8,cars store
+17,5,500,2500,240,9,music
+18,2,200,2500,250,4,plates store
+19,8,800,2500,250,2,kitchen material
+20,10,1000,2500,250,7,shoe store
+21,12,1200,2500,250,10,small market
+22,1,7120,1000,100,13,super market
+23,3,3144,1100,112,15,retailer
+24,5,2600,1200,130,10,cloth store
+25,2,1290,1200,140,3,food store
+26,1,600,1350,200,1,vegetable store
+27,5,500,1500,210,2,hat store
+28,7,1600,1500,250,14,piza store
+29,10,1200,1500,290,8,department store
+30,11,1100,1600,222,14,convenience store
+31,4,400,1800,250,3,warehouse store
+32,12,1200,1900,240,2,bakery
+33,9,900,2000,221,6,electronics store
+34,3,300,2100,225,2,mobile store
+35,4,400,2150,210,5,tv store
+36,8,800,2300,230,8,cars store
+37,5,500,2500,240,9,music
+38,2,200,2500,250,4,plates store
+39,8,800,2500,250,2,kitchen material
+40,10,1000,2500,250,7,shoe store
+41,12,1200,2500,250,10,small market
+42,1,7120,1000,100,13,super market
+43,3,3144,1100,112,15,retailer
+44,5,2600,1200,130,10,cloth store
+45,2,1290,1200,140,3,food store
+46,1,600,1350,200,1,vegetable store
+47,5,500,1500,210,2,hat store
+48,7,1600,1500,250,14,piza store
+49,10,1200,1500,290,8,department store
+50,11,1100,1600,222,14,convenience store
+51,4,400,1800,250,3,warehouse store
+52,12,1200,1900,240,2,bakery
+53,9,900,2000,221,6,electronics store
+54,3,300,2100,225,2,mobile store
+55,4,400,2150,210,5,tv store
+56,8,800,2300,230,8,cars store
+57,5,500,2500,240,9,music
+58,2,200,2500,250,4,plates store
+59,8,800,2500,250,2,kitchen material
+60,10,1000,2500,250,7,shoe store
+61,12,1200,2500,250,10,small market
+62,1,7120,1000,100,13,super market
+63,3,3144,1100,112,15,retailer
+64,5,2600,1200,130,10,cloth store
+65,2,1290,1200,140,3,food store
+66,1,600,1350,200,1,vegetable store
+67,5,500,1500,210,2,hat store
+68,7,1600,1500,250,14,piza store
+69,10,1200,1500,290,8,department store
+70,11,1100,1600,222,14,convenience store
+71,4,400,1800,250,3,warehouse store
+72,12,1200,1900,240,2,bakery
+73,9,900,2000,221,6,electronics store
+74,3,300,2100,225,2,mobile store
+75,4,400,2150,210,5,tv store
+76,8,800,2300,230,8,cars store
+77,5,500,2500,240,9,music
+78,2,200,2500,250,4,plates store
+79,8,800,2500,250,2,kitchen material
+80,10,1000,2500,250,4,plates store
+81,12,1200,2500,250,5,kitchen material
